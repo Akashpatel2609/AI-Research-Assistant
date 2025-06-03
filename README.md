@@ -1,4 +1,4 @@
-# 🤖 AI Research Chatbot
+# 🤖 AI Research Assistant
 
 A lightweight, retrieval-augmented chatbot that answers Computer Science research queries in real time. It uses multi-model embeddings, FAISS indexing, and Transformer-based reranking to deliver precise, low-latency responses via a simple CLI.
 
